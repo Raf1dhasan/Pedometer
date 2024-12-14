@@ -37,19 +37,19 @@ The **Pedometer App** was created to:
 4. Build and run the app on an emulator or a connected Android device.
 
 ## What I Did
--Integrated the accelerometer sensor to count steps and detect movement.
--Developed algorithms to calculate distance and calories burned.
--Designed the user interface with XML for a clean and responsive experience.
+- Integrated the accelerometer sensor to count steps and detect movement.
+- Developed algorithms to calculate distance and calories burned.
+- Designed the user interface with XML for a clean and responsive experience.
 
 ## What I Learned
 Improved knowledge of:
--Sensor integration in Android (accelerometer).
--Developing real-time data processing for fitness tracking apps.
--Optimizing apps for battery efficiency when using sensors.
--Gained hands-on experience with debugging and testing sensor-based Android applications.
+- Sensor integration in Android (accelerometer).
+- Developing real-time data processing for fitness tracking apps.
+- Optimizing apps for battery efficiency when using sensors.
+- Gained hands-on experience with debugging and testing sensor-based Android applications.
 
-##Future Improvements
--Add support for user-defined stride length and weight for more accurate calculations.
--Implement a history feature to log daily, weekly, and monthly activity stats.
--Add a dark mode for improved usability in low-light conditions.
--Include notifications for goal achievement and inactivity reminders.
+## Future Improvements
+- Add support for user-defined stride length and weight for more accurate calculations.
+- Implement a history feature to log daily, weekly, and monthly activity stats.
+- Add a dark mode for improved usability in low-light conditions.
+- Include notifications for goal achievement and inactivity reminders.
